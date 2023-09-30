@@ -1,0 +1,164 @@
+Uri: https://shapoorji-mangotreevilla.com/?tm=tt&ap=gads&aaid=adas9rk3GZ75U&utm_source=Google-Ads&utm_medium=Main-CPC&utm_campaign=Shapoorji-Mango-Tree-Villa-Pune&utm_term=Shapoorji-Mango-Tree-Villa-Pune&Keyword=Shapoorji pallonji hadapsar pune&Device=c&keyword_type=e&physical_location=9062114&gclid=Cj0KCQjwvL-oBhCxARIsAHkOiu16u0LvCvBocyA49OMLJr9ZomcVvACdTPwx46AGsaXFIH14LPhtThUaAsyEEALw_wcB
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\index.htm
+Content Type: text/html
+
+Uri: https://shapoorji-mangotreevilla.com/app.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\app.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/assets/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/assets/css/play.svg
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\css\play.svg
+Content Type: image/svg+xml
+
+Uri: https://shapoorji-mangotreevilla.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/micon.woff
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\micon.woff
+Content Type: font/woff
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/micon.woff2
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\micon.woff2
+Content Type: font/woff2
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/muli-variablefont_wght-webfont.woff
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\muli-variablefont_wght-webfont.woff
+Content Type: font/woff
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/muli-variablefont_wght-webfont.woff2
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\muli-variablefont_wght-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/roboto-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\roboto-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/roboto-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\roboto-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/roboto-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\roboto-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://shapoorji-mangotreevilla.com/assets/fonts/roboto-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\fonts\roboto-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/comman/favicon.ico
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\comman\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/comman/logo.svg
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\comman\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/extra/ola.png
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\extra\ola.png
+Content Type: image/png
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/gi1.jpg
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\gi1.jpg
+Content Type: image/jpeg
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/gi2.jpg
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\gi2.jpg
+Content Type: image/jpeg
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/gi3.jpg
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\gi3.jpg
+Content Type: image/jpeg
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/gi4.jpg
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\gi4.jpg
+Content Type: image/jpeg
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/webp/b1-1400w.webp
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\webp\b1-1400w.webp
+Content Type: image/webp
+
+Uri: https://shapoorji-mangotreevilla.com/assets/img/webp/b1-768w.webp
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\img\webp\b1-768w.webp
+Content Type: image/webp
+
+Uri: https://shapoorji-mangotreevilla.com/assets/js/app.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/js/chatbox.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\js\chatbox.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/js/jquery.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/js/lazysizes.min.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\js\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/intTelInput/flags.png
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\intTelInput\flags.png
+Content Type: image/png
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/intTelInput/intlTelInput-jquery.min.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\intTelInput\intlTelInput-jquery.min.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/intTelInput/intlTelInput.min.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\intTelInput\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/lazysizes/blur-up/ls.blur-up.min.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\lazysizes\blur-up\ls.blur-up.min.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/lazysizes/object-fit/ls.object-fit.min.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\lazysizes\object-fit\ls.object-fit.min.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/lazysizes/parent-fit/ls.parent-fit.min.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\lazysizes\parent-fit\ls.parent-fit.min.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/lazysizes/unveilhooks/ls.unveilhooks.min.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\lazysizes\unveilhooks\ls.unveilhooks.min.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/OwlCarousel/app.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\OwlCarousel\app.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/OwlCarousel/owl.carousel.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\OwlCarousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/OwlCarousel/owl.carousel.js
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\OwlCarousel\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/OwlCarousel/owl.theme.default.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\OwlCarousel\owl.theme.default.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/assets/plugins/OwlCarousel/owl.video.play.png
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\assets\plugins\OwlCarousel\owl.video.play.png
+Content Type: image/png
+
+Uri: https://shapoorji-mangotreevilla.com/design/amenities/amenities-4.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\design\amenities\amenities-4.css
+Content Type: text/css
+
+Uri: https://shapoorji-mangotreevilla.com/design/gallery/gallery-1.css
+File Name: C:\Downloaded Web Sites\shapoorji-mangotreevilla.com\design\gallery\gallery-1.css
+Content Type: text/css
+
